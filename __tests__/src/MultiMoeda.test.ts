@@ -1,6 +1,6 @@
-import Bank from "../../../src/MultiMoeda/Bank";
-import Money, { Expression } from "../../../src/MultiMoeda/Money";
-import Sum from "../../../src/MultiMoeda/Sum";
+import Bank from "../../src/Bank";
+import Money, { Expression } from "../../src/Money";
+import Sum from "../../src/Sum";
 
 /*
  * Objetivo

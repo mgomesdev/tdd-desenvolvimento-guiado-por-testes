@@ -5,6 +5,7 @@ export interface Expression {
    reduce: (bank: Bank, to: string) => Money;
    plus: (addend: Expression) => Expression | null;
    times: (multiplier: number) => Expression;
+   toString: () => string;
 }
 
 class Money implements Expression {
