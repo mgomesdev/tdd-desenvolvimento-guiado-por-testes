@@ -1,4 +1,4 @@
-### TDD - Desenvolvimento guiado por testes - Kent Beck
+### Leitura do Livro: TDD - Desenvolvimento guiado por testes - Kent Beck
 
 Para os exemplos do livro, utilizei TypeScript + Jest no lugar de Java + JUnit.
 
