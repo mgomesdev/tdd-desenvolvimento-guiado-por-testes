@@ -1,6 +1,6 @@
-import Bank from "../../src/Bank";
-import Money from "../../src/Money";
-import Sum from "../../src/Sum";
+import Bank from "../src/Bank";
+import Money from "../src/Money";
+import Sum from "../src/Sum";
 
 describe("Sum Class Tests", () => {
    let bank: Bank;

@@ -1,5 +1,5 @@
-import Bank from "../../src/Bank";
-import Money from "../../src/Money";
+import Bank from "../src/Bank";
+import Money from "../src/Money";
 
 describe("Class Bank", () => {
    it("reduce", () => {

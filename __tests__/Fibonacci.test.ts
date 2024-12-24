@@ -1,4 +1,4 @@
-import Fibonacci from "../../src/Fibonacci";
+import Fibonacci from "../src/Fibonacci";
 
 describe("Fibonacci", () => {
    it("Test Fibonacci", () => {

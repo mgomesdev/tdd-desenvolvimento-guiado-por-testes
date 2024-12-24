@@ -1,6 +1,6 @@
-import Bank from "../../src/Bank";
-import Money, { Expression } from "../../src/Money";
-import Sum from "../../src/Sum";
+import Bank from "../src/Bank";
+import Money, { Expression } from "../src/Money";
+import Sum from "../src/Sum";
 
 describe("Class Money", () => {
    it("equals", () => {

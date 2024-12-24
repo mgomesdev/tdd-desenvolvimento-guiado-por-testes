@@ -1,4 +1,4 @@
-import Pair from "../../src/Pair";
+import Pair from "../src/Pair";
 
 describe("PairClass", () => {
    it("equals", () => {
