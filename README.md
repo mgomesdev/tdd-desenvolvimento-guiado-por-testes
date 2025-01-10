@@ -12,7 +12,7 @@
 
 ### Concluído
 
--  [O Exemplo FInanceiro](#)
+-  [O Exemplo Financeiro](#)
    -  [Bank](https://github.com/mgomesdev/tdd-desenvolvimento-guiado-por-testes/blob/main/__tests__/Bank.test.ts)
    -  [Fibonacci](https://github.com/mgomesdev/tdd-desenvolvimento-guiado-por-testes/blob/main/__tests__/Fibonacci.test.ts)
    -  [Money](https://github.com/mgomesdev/tdd-desenvolvimento-guiado-por-testes/blob/main/__tests__/Money.test.ts)
