@@ -8,8 +8,6 @@
 | Progresso | 100%      |
 | Páginas   | 215/215   |
 
----
-
 ### Concluído
 
 -  [O Exemplo Financeiro](#)
