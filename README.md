@@ -8,7 +8,7 @@
 | Progresso | 100%      |
 | Páginas   | 215/215   |
 
-### Sumário
+### Concluído
 
 -  [O Exemplo Financeiro](#)
    -  [Bank](https://github.com/mgomesdev/tdd-desenvolvimento-guiado-por-testes/blob/main/__tests__/Bank.test.ts)
