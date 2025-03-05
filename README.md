@@ -1,6 +1,7 @@
 ## TDD - Desenvolvimento guiado por testes - Kent Beck 
 
-![!Capa do livro: Estrutura de Dados e Algoritmos com JavaScript - Loiane Groner!](/readme/tdd-desenvolvimento-guiado-por-testes-kent-beck.jpeg "Estrutura de Dados e Algoritmos com JavaScript - Loiane Groner")
+<img src="/readme/tdd-desenvolvimento-guiado-por-testes-kent-beck.jpeg" alt="Capa do livro: Estrutura de Dados e Algoritmos com JavaScript - Loiane Groner" title="Capa do livro: Estrutura de Dados e Algoritmos com JavaScript - Loiane Groner" width="320">
+
 
 | Título    | Descrição |
 | --------- | --------- |
